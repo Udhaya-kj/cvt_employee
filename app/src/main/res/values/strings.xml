@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CVT</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="pin">Pin</string>
+    <string name="check_out">Check Out</string>
+    <string name="see_tomorrow">See you tomorrow</string>
+    <string name="check_in">Check In</string>
+    <string name="productive_hour">Productive Hours</string>
+    <string name="checkbox_in">Check In enable after entering the blue zone.</string>
+    <string name="checkbox_out">Automatically Check Out after getting out of the blue zone.</string>
+    <string name="apply_break">Apply Break</string>
+    <string name="end_break">End Break</string>
+    <string name="text_ok">OK</string>
+    <string name="check_your_network_connection">Check Your Network Connection!</string>
+    <string name="enable_location_permission">Enable location permission to access the application</string>
+    <string name="enable_camera_permission">Enable camera permission to access the application</string>
+    <string name="fetching_address">Fetching Address</string>
+    <string name="hr_min_sec">Hr : Min : Sec</string>
+    <string name="dialogTitle">Exit Application</string>
+    <string name="dialogMessage">Are you sure you want to close the application?</string>
+    <string name="exit">Exit</string>
+    <string name="cancel">Cancel</string>
+    <string name="break_warning">Apply Break can enable after Check In</string>
+    <string name="check_warning">End Break in order to Check Out</string>
+</resources>

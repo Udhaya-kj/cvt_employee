@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "111251913731",
+    "project_id": "cvt-employee",
+    "storage_bucket": "cvt-employee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111251913731:android:0c7183884ad6e99d256236",
+        "android_client_info": {
+          "package_name": "com.cvt.employee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111251913731-u9fmhfntc6tmd75q0ncdf8t2l3bm0lcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXgq70jPqWLK2sJ2OuZauUebN9hSAo28Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111251913731-u9fmhfntc6tmd75q0ncdf8t2l3bm0lcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
